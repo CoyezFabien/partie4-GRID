@@ -1,0 +1,47 @@
+.containerMain{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.un
+{
+    background-color: red;
+}
+.deux
+{
+    background-color:blue;
+}
+.trois
+{
+    background-color: white;
+}
+.quatre
+{
+    background-color:black;
+}
+.cinq
+{
+    background-color:yellow;
+}
+.six
+{
+    background-color:green;
+}
+.sept
+{
+    background-color: chocolate;
+}
+.huit
+{
+    background-color:crimson;
+}
+.neuf
+{
+    background-color: cornflowerblue;
+}
+.containerMain > div
+{
+    width: 80%;
+    height: 50px;
+    
+}
